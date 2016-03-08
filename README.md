@@ -10,7 +10,7 @@
 
 Currently led by Rob Weiss (@3XPlo1t2) and John Eberhardt (@JohnSEberhardt3).
 
-# Delphor/nErich Project Roadmap #
+# Delphor/Enrich Project Roadmap #
 
 The roadmap for this project is [here.](https://github.com/delphornet/Cortextual/wiki/Project-Roadmap#delphorenrich-repo-and-project-roadmap)
 
